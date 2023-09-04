@@ -1,7 +1,6 @@
 # atlys-interview-task
 
-# Steps
+ Steps
 
-## yarn install 
-
-## yarn start
+`yarn install `
+`yarn start`
